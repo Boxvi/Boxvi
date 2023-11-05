@@ -1,13 +1,18 @@
+import {Link, useLocation} from "react-router-dom";
+import {useState} from "react";
+import {Box} from "@mui/material";
+import {info} from "../info/Info";
+import Style from './Navbar.module.scss';
+import Toggler from "./home/Toggler";
 
-
-/*const links = [
+const links = [
     {
-        name: 'Home',
+        name: 'home',
         to: '/',
         active: 'home'
     },
     {
-        name: 'Sobre Mi',
+        name: 'sobre mi',
         to: '/about',
         active: 'about'
     },
@@ -18,25 +23,39 @@
         active: 'home'
     },
     {
-        name: 'Portfolio',
-        to: '/portfolio',
+        name: 'portafolio',
+        to: '/portafolio',
         active: 'portfolio'
+    },
+    {
+        name: 'tienda',
+        to: '/tienda',
+        active: 'tienda'
     }
-]*/
+]
 
-import { useLocation } from "react-router-dom";
-import React, {useState} from 'react';
-
-
-function Navbar(){
+export default function Navbar({darkMode, handleClick}) {
     const location = useLocation()
     const [active, setActive] = useState(location.pathname === '/' ? 'home' : location.pathname.slice(1, location.pathname.length));
 
     return (
-        <Box>
-            <h1>aki va el navbar</h1>
+        <Box component={'nav'} width={'100%'}>
+            <Box component={'ul'} display={'flex'} justifyContent={'center'} alignItems={'center'}
+                 gap={{xs: '2rem', md: '8rem'}}
+                 textTransform={'uppercase'} fontSize={'1rem'}>
+                {links.map((link, index) => (
+                    <Box key={index} component={'li'} className={(link.active === active && !link.type) && Style.active}
+                         sx={{borderImageSource: info.gradient}}>
+                        <Link to={link.to} onClick={() => setActive(link.active)} className={Style.link}>
+                            {!link.type && <p style={{padding: '0.5rem 0'}}>{link.name}</p>}
+                            {link.type && <h1>{link.name}</h1>}
+                        </Link>
+                    </Box>
+                ))}
+                <li>
+                    <Toggler darkMode={darkMode} handleClick={handleClick}/>
+                </li>
+            </Box>
         </Box>
     )
 }
-
-export default Navbar;
