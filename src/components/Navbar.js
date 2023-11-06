@@ -11,7 +11,7 @@ const links = [
         to: '/',
         active: 'home'
     },
-    {
+   /* {
         name: 'sobre mi',
         to: '/about',
         active: 'about'
@@ -31,7 +31,7 @@ const links = [
         name: 'tienda',
         to: '/tienda',
         active: 'tienda'
-    }
+    }*/
 ]
 
 export default function Navbar({darkMode, handleClick}) {
