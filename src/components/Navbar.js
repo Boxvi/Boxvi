@@ -15,14 +15,14 @@ const links = [
         name: 'sobre mi',
         to: '/about',
         active: 'about'
-    },
+    },*/
     {
         name: info.initials,
         type: 'initials',
         to: '/',
         active: 'home'
     },
-    {
+    /*{
         name: 'portafolio',
         to: '/portafolio',
         active: 'portfolio'
