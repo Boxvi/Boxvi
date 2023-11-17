@@ -11,27 +11,27 @@ const links = [
         to: '/',
         active: 'home'
     },
-   /* {
-        name: 'sobre mi',
-        to: '/about',
-        active: 'about'
-    },*/
+    // {
+    //     name: 'sobre mi',
+    //     to: '/about',
+    //     active: 'about'
+    // },
     {
         name: info.initials,
         type: 'initials',
         to: '/',
         active: 'home'
     },
-    /*{
+    {
         name: 'portafolio',
         to: '/portafolio',
         active: 'portfolio'
     },
-    {
-        name: 'tienda',
-        to: '/tienda',
-        active: 'tienda'
-    }*/
+    // {
+    //     name: 'tienda',
+    //     to: '/tienda',
+    //     active: 'tienda'
+    // }
 ]
 
 export default function Navbar({darkMode, handleClick}) {
