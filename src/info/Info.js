@@ -1,4 +1,9 @@
 import self from "../img/self.jpeg"
+import mock1 from "../img/mock1.png"
+import mock2 from "../img/mock2.png"
+import mock3 from "../img/mock3.png"
+import mock4 from "../img/mock4.png"
+import mock5 from "../img/mock5.png"
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 
@@ -88,35 +93,46 @@ export const info = {
 // You can also remove the emojis if you'd like, I just think they look cute :P
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
+
         {
-            title: "Project 1",
-            live: "https://paytonpierce.dev", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/paytonjewell", // this should be a link to the **repository** of the project, where the code is hosted.
+            title: "1. PokeApi V1 - Frontend",
+            live: "https://pokeapiboris.vercel.app/version_uno",
+            source: "https://github.com/Boxvi/pokeapiboris",
+            image: mock3
+        },
+        {
+            title: "2. PokeApi V2 - Frontend",
+            live: "https://pokeapiboris.vercel.app/version_dos/todos",
+            source: "https://github.com/Boxvi/pokeapiboris",
+            image: mock4
 
         },
         {
-            title: "Project 2",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "3. API PRODUCTO - Backend",
+            live: "https://api-producto-mongo.onrender.com/swagger-ui/index.html",
+            source: "https://github.com/Boxvi/api_producto_mongo",
+            image: mock2
 
         },
         {
-            title: "Project 3",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
+            title: "4. FRONT PRODUCTO - Frontend",
+            live: "https://front-producto-mongo.vercel.app/",
+            source: "https://github.com/Boxvi/front-producto-mongo",
+            image: mock5
 
         },
         {
-            title: "Project 4",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-
+            title: "5. MVSC - Frontend",
+            live: "https://mvsc.vercel.app/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+            source: "https://github.com/boxvi", // this should be a link to the **repository** of the project, where the code is hosted.
+            image: mock1
         },
-        {
-            title: "Project 5",
-            live: "https://paytonpierce.dev",
-            source: "https://github.com/paytonjewell",
-
-        }
+        // {
+        //     title: "Project 5",
+        //     live: "https://paytonpierce.dev",
+        //     source: "https://github.com/paytonjewell",
+        //     image: mock1
+        //
+        // }
     ]
 }
