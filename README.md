@@ -1,5 +1,5 @@
 ><!--Title @Boxvi-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+Boris+Quizhpe;I'm+from+Ecuador;I'm+21+years+old;Welcome!)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+Boris+Quizhpe;I'm+from+Ecuador;I'm+22+years+old;Welcome!)
 <h3 align="center">I am a Full Stack developer with a focus on BackEnd. I love working on the server and logistics side of a project, solving complex problems and optimizing systems. Although I have skills in FrontEnd development, my passion and experience lie in the BackEnd.</h3>
 
 
