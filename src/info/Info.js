@@ -1,9 +1,4 @@
 import self from "../img/self.jpeg"
-import mock1 from "../img/mock1.png"
-import mock2 from "../img/mock2.png"
-import mock3 from "../img/mock3.png"
-import mock4 from "../img/mock4.png"
-import mock5 from "../img/mock5.png"
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 
@@ -16,7 +11,6 @@ export const info = {
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
     miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
-
         {
             emoji: '🌎',
             text: 'Ecuador'
@@ -31,16 +25,16 @@ export const info = {
         }
     ],
     socials: [
-        {
-            link: "https://www.facebook.com/Bo.ris.xvii",
-            icon: 'fa fa-facebook',
-            label: 'facebook'
-        },
-        {
-            link: "https://instagram.com",
-            icon: 'fa fa-instagram',
-            label: 'instagram'
-        },
+        // {
+        //     link: "https://www.facebook.com/Bo.ris.xvii",
+        //     icon: 'fa fa-facebook',
+        //     label: 'facebook'
+        // },
+        // {
+        //     link: "https://instagram.com",
+        //     icon: 'fa fa-instagram',
+        //     label: 'instagram'
+        // },
         {
             link: "https://github.com/Boxvi",
             icon: "fa fa-github",
@@ -61,72 +55,123 @@ export const info = {
             icon: "fa fa-whatsapp",
             label: 'whatsapp'
         }
-// Feel free to remove any of these that you don't have. I'll write an FAQ on how to add new ones later, let me know if you have a request for an icon!
-// Just change the links so that they lead to your social profiles.
-
     ],
-    bio: "Hello! I'm John. I'm a systems engineer for Google. I studied CompSci at Harvard, I enjoy long walks on the beach, and I believe artificial intelligence will inevitably rule us all one day. You should hire me!",
+    bio: "¡Hola! Soy Boris, desarrollador de software independiente con formación en el Tecnológico del Azuay. Disfruto de la resolución creativa de problemas y tengo un enfoque proactivo hacia la tecnología. Creo que la inteligencia artificial transformará nuestro futuro. ¡Estoy listo para sumar valor a tu equipo! ¡Hablemos y descubre cómo puedo contribuir a tu proyecto!",
     skills:
         {
-            proficientWith: ['javascript', 'react', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'],
-            exposedTo: ['nodejs', 'python', 'adobe illustrator']
+            proficientWith: ['javascript', 'react', 'angular', 'java', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'
+                , 'mysql', 'mongodb', 'postgresql', 'redes', 'cisco', 'linux', 'windows', 'docker', 'kubernetes', 'aws'
+                , 'vmware'],
+            exposedTo: ['nodejs', 'python', 'adobe illustrator',]
         }
     ,
     hobbies: [
         {
-            label: 'reading',
+            label: 'lectura',
             emoji: '📖'
         },
         {
-            label: 'theater',
+            label: 'teatro',
             emoji: '🎭'
         },
         {
-            label: 'movies',
+            label: 'peliculas',
             emoji: '🎥'
         },
         {
-            label: 'cooking',
+            label: 'cocinar',
             emoji: '🌶'
-        }
+        },
+        {
+            label: 'dormir',
+            emoji: '💤'
+        },
+        {
+            label: 'nadar',
+            emoji: '🏊‍♀️'
+        },
 // Same as above, change the emojis to match / relate to your hobbies or interests.
 // You can also remove the emojis if you'd like, I just think they look cute :P
     ],
     portfolio: [ // This is where your portfolio projects will be detailed
 
         {
-            title: "1. PokeApi V1 - Frontend",
+            title: "1. PokeApi V1",
             live: "https://pokeapiboris.vercel.app/version_uno",
             source: "https://github.com/Boxvi/pokeapiboris",
-            image: mock3
+            type: "FRONTEND",
         },
         {
-            title: "2. PokeApi V2 - Frontend",
+            title: "2. PokeApi V2",
             live: "https://pokeapiboris.vercel.app/version_dos/todos",
             source: "https://github.com/Boxvi/pokeapiboris",
-            image: mock4
-
+            type: "FRONTEND",
         },
         {
-            title: "3. API PRODUCTO - Backend",
+            title: "3. Flores Amarillas",
+            live: "https://flores-amarillas-cyan.vercel.app/",
+            source: "https://github.com/Boxvi/flores-amarillas",
+            type: "FRONTEND",
+        },
+        {
+            title: "4. Bitcoin Ecuador",
+            live: "https://bitcoin-ecuador.vercel.app/dashboard/home",
+            source: "https://github.com/Boxvi/pokeapiboris",
+            type: "FRONTEND",
+        },{
+            title: "5. Gift App",
+            live: "https://gif-boxvi.vercel.app/",
+            source: "https://github.com/Boxvi/gif-boxvi",
+            type: "FRONTEND",
+        },
+        {
+            title: "6. PokeApi V2",
+            live: "https://50-projects-react.vercel.app/",
+            source: "https://github.com/Boxvi/50-projects-react",
+            type: "FRONTEND",
+        },
+        {
+            title: "7. API PRODUCTO",
             live: "https://api-producto-mongo.onrender.com/swagger-ui/index.html",
             source: "https://github.com/Boxvi/api_producto_mongo",
-            image: mock2
+            type: "BACKEND",
 
         },
         {
-            title: "4. FRONT PRODUCTO - Frontend",
+            title: "8. FRONT PRODUCTO",
             live: "https://front-producto-mongo.vercel.app/",
             source: "https://github.com/Boxvi/front-producto-mongo",
-            image: mock5
+            type: "FRONTEND",
 
         },
         {
-            title: "5. MVSC - Frontend",
-            live: "https://mvsc.vercel.app/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/boxvi", // this should be a link to the **repository** of the project, where the code is hosted.
-            image: mock1
+            title: "10. Disenos",
+            live: "https://boxvi.github.io/disenos.github.io/",
+            source: "https://github.com/Boxvi/disenos.github.io",
+            type: "FRONTEND",
         },
+        {
+            title: "11. Boxvi",
+            live: "https://boxvi.github.io/BOXVI_SOFT/",
+            source: "https://github.com/Boxvi/BOXVI_SOFT",
+            type: "FRONTEND",
+        },
+        {
+            title: "12. Boxvi",
+            live: "https://boxvi.github.io/yugihoweb/",
+            source: "https://github.com/Boxvi/yugihoweb",
+            type: "FRONTEND",
+        },
+
+
+
+
+        // {
+        //     title: "5. MVSC - Frontend",
+        //     live: "https://mvsc.vercel.app/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+        //     source: "https://github.com/boxvi", // this should be a link to the **repository** of the project, where the code is hosted.
+        //     image: mock1
+        // },
         // {
         //     title: "Project 5",
         //     live: "https://paytonpierce.dev",

@@ -11,11 +11,11 @@ const links = [
         to: '/',
         active: 'home'
     },
-    // {
-    //     name: 'sobre mi',
-    //     to: '/about',
-    //     active: 'about'
-    // },
+    {
+        name: 'sobre mi',
+        to: '/about',
+        active: 'about'
+    },
     {
         name: info.initials,
         type: 'initials',

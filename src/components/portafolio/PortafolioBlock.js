@@ -2,11 +2,11 @@ import {Box} from "@mui/material";
 import IconLink from "./IconLink";
 
 export default function PortafolioBlock(props) {
-    const {image, live, source, title} = props;
+    const {live, source, title, type} = props;
     return (
         <Box display={'flex'} flexDirection={'column'} justifyContent={'center'} alignItems={'center'}>
-            <Box component={'img'} src={image} alt={'mockup'} width={"1080"} height={"1920"}/>
-            <h1 style={{fontSize: '2rem'}}>{title}</h1>
+            <h1 style={{fontSize: '2rem'}}>{title} - {type}</h1>
+            <iframe src={live} width={"80%"} height={"400"}/>
             <Box className={'portfolio'} display={'flex'} flexDirection={'column'} gap={'0.5rem'}
                  alignItems={'center'} fontSize={'1.5rem'} py={'2rem'}>
                 <Box p={1} border={'2px solid black'} borderRadius={'25px'}>
