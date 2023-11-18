@@ -8,7 +8,7 @@ export default function Portafolio() {
             <Grid container display={'flex'} justifyContent={'center'}>
                 {info.portfolio.map((project, index) => (
                     <Grid item xs={12} md={6} key={index}>
-                        <PortafolioBlock image={project.image} live={project.live} source={project.source} title={project.title} />
+                        <PortafolioBlock image={project.image} live={project.live} source={project.source} title={project.title} type={project.type}/>
                     </Grid>
                 ))}
             </Grid>

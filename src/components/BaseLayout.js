@@ -5,6 +5,7 @@ import Style from './BaseLayout.module.scss'
 import {Route, Routes} from "react-router-dom";
 import Home from "./home/Home";
 import Portafolio from "./portafolio/Portafolio";
+import About from "./about/About";
 
 
 export default function BaseLayout() {
@@ -40,7 +41,7 @@ export default function BaseLayout() {
                 <Grid item flexGrow={1}>
                     <Routes>
                         <Route exact path={'/'} element={<Home/>}/>
-                        {/*<Route exact path={'/about'} element={<About/>}/>*/}
+                        <Route exact path={'/about'} element={<About/>}/>
                         <Route exact path={'/portafolio'} element={<Portafolio/>}/>
                     </Routes>
                 </Grid>

@@ -24,7 +24,7 @@ export default function Home() {
                 </Box>
                 <Box display={'flex'} gap={'1.5rem'} justifyContent={'center'} fontSize={{xs: '2rem', md: '2.5rem'}}>
                     {info.socials.map((social, index) => (
-                        <SocialIcon key={index} link={social.link} icon={social.icon} label={social.label} />
+                        <SocialIcon key={index} link={social.link} icon={social.icon} label={social.label}/>
                     ))}
                 </Box>
             </Box>
