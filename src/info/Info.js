@@ -41,7 +41,7 @@ export const info = {
             label: 'github'
         },
         {
-            link: "https://www.linkedin.com/in/boris-quizhpe-a8636825b/",
+            link: "https://www.linkedin.com",
             icon: "fa fa-linkedin",
             label: 'linkedin'
         },
