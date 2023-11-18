@@ -121,12 +121,12 @@ export const info = {
             image: mock5
 
         },
-        {
-            title: "5. MVSC - Frontend",
-            live: "https://mvsc.vercel.app/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-            source: "https://github.com/boxvi", // this should be a link to the **repository** of the project, where the code is hosted.
-            image: mock1
-        },
+        // {
+        //    title: "5. MVSC - Frontend",
+        //    live: "https://mvsc.vercel.app/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
+        //    source: "https://github.com/boxvi", // this should be a link to the **repository** of the project, where the code is hosted.
+        //    image: mock1
+        // },
         // {
         //     title: "Project 5",
         //     live: "https://paytonpierce.dev",
