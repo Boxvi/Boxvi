@@ -1,4 +1,4 @@
-import self from "../img/self1.jpeg"
+import self from "../img/self.jpeg"
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 
