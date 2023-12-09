@@ -157,12 +157,17 @@ export const info = {
             type: "FRONTEND",
         },
         {
-            title: "12. Boxvi",
+            title: "12. YuGiOhWeb",
             live: "https://boxvi.github.io/yugihoweb/",
             source: "https://github.com/Boxvi/yugihoweb",
             type: "FRONTEND",
         },
-
+        {
+            title: "13. Flores Amarillas Genu",
+            live: "https://flores-amarillas-genu.vercel.app/",
+            source: "https://github.com/Boxvi/flores-amarillas-genu",
+            type: "FRONTEND",
+        },
 
 
 
