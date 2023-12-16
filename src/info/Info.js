@@ -168,7 +168,12 @@ export const info = {
             source: "https://github.com/Boxvi/flores-amarillas-genu",
             type: "FRONTEND",
         },
-
+        {
+            title: "14. BoxviSoft NextJS",
+            live: "https://boxvisoft.vercel.app/",
+            source: "https://github.com/Boxvi/boxvisoft",
+            type: "FRONTEND",
+        },
 
 
         // {
