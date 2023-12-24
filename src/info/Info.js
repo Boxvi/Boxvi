@@ -174,6 +174,12 @@ export const info = {
             source: "https://github.com/Boxvi/boxvisoft",
             type: "FRONTEND",
         },
+        {
+            title: "15. BoxviSoft NextJS",
+            live: "https://boxvi.github.io/RELOJ/",
+            source: "https://github.com/Boxvi/RELOJ",
+            type: "FRONTEND",
+        },
 
 
         // {
