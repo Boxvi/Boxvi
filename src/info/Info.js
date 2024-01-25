@@ -175,12 +175,17 @@ export const info = {
             type: "FRONTEND",
         },
         {
-            title: "15. BoxviSoft NextJS",
+            title: "15. Reloj html",
             live: "https://boxvi.github.io/RELOJ/",
             source: "https://github.com/Boxvi/RELOJ",
             type: "FRONTEND",
         },
-
+        {
+            title: "16. API PRODUCTO NESTJS",
+            live: "https://api-producto-nestjs.onrender.com/docs/v1",
+            source: "https://github.com/Boxvi/api_producto_nestjs",
+            type: "BACKEND",
+        },
 
         // {
         //     title: "5. MVSC - Frontend",
