@@ -16,7 +16,8 @@
     "react-countup": "^6.5.0",
     "react-dom": "^18",
     "react-icons": "^5.0.1",
-    "uuid": "^9.0.1"
+    "uuid": "^9.0.1",
+    "next-themes": "^0.2.1"
   },
   "devDependencies": {
     "@types/node": "20.11.17",
