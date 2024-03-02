@@ -14,7 +14,7 @@
 - 📫 How to reach me **boxaquro@gmail.com**
 
 <!--Graph-->
-![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=Boxvi&bg_color=0d1117&color=ffffff&line=00b3ff&point=f9fafa&area=true&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
 
 <!--Skill And More Information--> 
 <div align="center">  
