@@ -13,8 +13,9 @@
 
 - 📫 How to reach me **boxaquro@gmail.com**
 
-<!--Graph-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&exclude_repo=github-readme-stats,anuraghazra.github.io)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Boxvi&theme=dark&hide_border=true&border_radius=4&locale=es)](https://git.io/streak-stats)
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Boxvi&bg_color=000000&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!--Skill And More Information--> 
 <div align="center">  
