@@ -3,13 +3,9 @@
 <h3 align="center">I am a Full Stack developer with a focus on BackEnd. I love working on the server and logistics side of a project, solving complex problems and optimizing systems. Although I have skills in FrontEnd development, my passion and experience lie in the BackEnd.</h3>
 
 
-- 🔭 I’m currently working on [pokeapiboris](https://github.com/Boxvi/pokeapiboris)
+- 🌱 I’m currently learning **oracle y react.js**
 
-- 🌱 I’m currently learning **python y c#**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Boxvi](https://github.com/Boxvi)
-
-- 💬 Ask me about **react y vue**
+- 👨‍💻 All of my projects are available at [profile](https://boxvi.vercel.app/)
 
 - 📫 How to reach me **boxaquro@gmail.com**
 
