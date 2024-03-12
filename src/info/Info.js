@@ -168,20 +168,20 @@ export const info = {
             source: "https://github.com/Boxvi/flores-amarillas-genu",
             type: "FRONTEND",
         },
+        //{
+            //title: "14. BoxviSoft NextJS",
+            //live: "https://boxvisoft.vercel.app/",
+            //source: "https://github.com/Boxvi/boxvisoft",
+            //type: "FRONTEND",
+        //},
         {
-            title: "14. BoxviSoft NextJS",
-            live: "https://boxvisoft.vercel.app/",
-            source: "https://github.com/Boxvi/boxvisoft",
-            type: "FRONTEND",
-        },
-        {
-            title: "15. Reloj html",
+            title: "14. Reloj html",
             live: "https://boxvi.github.io/RELOJ/",
             source: "https://github.com/Boxvi/RELOJ",
             type: "FRONTEND",
         },
         {
-            title: "16. API PRODUCTO NESTJS",
+            title: "15. API PRODUCTO NESTJS",
             live: "https://api-producto-nestjs.onrender.com/docs/v1",
             source: "https://github.com/Boxvi/api_producto_nestjs",
             type: "BACKEND",
@@ -193,12 +193,6 @@ export const info = {
         //     source: "https://github.com/boxvi", // this should be a link to the **repository** of the project, where the code is hosted.
         //     image: mock1
         // },
-        // {
-        //     title: "Project 5",
-        //     live: "https://paytonpierce.dev",
-        //     source: "https://github.com/paytonjewell",
-        //     image: mock1
-        //
-        // }
+
     ]
 }
