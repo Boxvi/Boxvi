@@ -1,6 +1,5 @@
 import { v4 as uuidv4 } from 'uuid';
 
-
 export const clientsHeading = 'Some of the brands I worked with';
 
 export const clientsData = [

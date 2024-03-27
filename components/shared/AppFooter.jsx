@@ -26,7 +26,7 @@ const socialLinks = [
     {
         id: 4,
         icon: <FiLinkedin />,
-        url: 'www.linkedin.com/in/boris-quizhpe',
+        url: 'https://www.linkedin.com/in/boris-quizhpe/',
     },
     {
         id: 5,

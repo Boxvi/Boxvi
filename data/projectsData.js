@@ -10,11 +10,12 @@ import {
 export const projectsData = [
     {
         id: 1,
-        title: 'Google Health Platform',
-        url: 'google-health-platform',
+        title: 'POKE API VERSION UNO',
+        url: 'https://pokeapiboris.vercel.app/version_uno',
         category: 'Web Application',
+        img: '/images/pk_uno/pk_uno_1.webp',
         ProjectHeader: {
-            title: 'Google Health Platform',
+            title: 'POKE API VERSION UNO',
             publishDate: 'Jul 26, 2021',
             tags: 'UI / Frontend',
         },
@@ -22,14 +23,17 @@ export const projectsData = [
             {
                 id: uuidv4(),
                 title: 'Google Health Platform',
+                img: '/images/pk_uno/pk_uno_1.webp',
             },
             {
                 id: uuidv4(),
                 title: 'Google Health Platform',
+                img: '/images/pk_uno/pk_uno_2.webp',
             },
             {
                 id: uuidv4(),
                 title: 'Google Health Platform',
+                img: '/images/pk_uno/pk_uno_3.webp',
             },
         ],
         ProjectInfo: {
@@ -132,7 +136,7 @@ export const projectsData = [
     },
     {
         id: 2,
-        title: 'Phoenix Digital Agency',
+        title: 'POKE API VERSION DOS',
         url: 'phoenix-digital-agency',
         category: 'Mobile Application',
         ProjectHeader: {
