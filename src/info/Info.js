@@ -1,16 +1,29 @@
 import self from "../img/self.jpeg"
+import uno from "../img/1.webp";
+import dos from "../img/2.webp";
+import tres from "../img/3.webp"
+import cuatro from "../img/4.webp"
+import cinco from "../img/5.webp"
+import seis from "../img/6.webp"
+import siete from "../img/7.webp"
+import ocho from "../img/8.webp"
+import nueve from "../img/9.webp"
+import diez from "../img/10.webp"
+import once from "../img/11.webp"
+import doce from "../img/12.webp"
+import trece from "../img/13.webp"
 
 export let colors = ["rgb(0,255,164)", "rgb(166,104,255)"];
 
 export const info = {
     firstName: "Boris",
     lastName: "Quizhpe",
-    initials: "bq", // the example uses first and last, but feel free to use three or more if you like.
+    initials: "bq",
     position: "a Full Stack Developer",
-    selfPortrait: self, // don't change this unless you want to name your self-portrait in the "img" folder something else!
+    selfPortrait: self,
     gradient: `-webkit-linear-gradient(135deg, ${colors})`, // don't change this either
     baseColor: colors[0],
-    miniBio: [ // these are just some "tidbits" about yourself. You can look at mine https://paytonjewell.github.io/#/ for an example if you'd like
+    miniBio: [
         {
             emoji: '🌎',
             text: 'Ecuador'
@@ -25,16 +38,6 @@ export const info = {
         }
     ],
     socials: [
-        // {
-        //     link: "https://www.facebook.com/Bo.ris.xvii",
-        //     icon: 'fa fa-facebook',
-        //     label: 'facebook'
-        // },
-        // {
-        //     link: "https://instagram.com",
-        //     icon: 'fa fa-instagram',
-        //     label: 'instagram'
-        // },
         {
             link: "https://github.com/Boxvi",
             icon: "fa fa-github",
@@ -90,109 +93,99 @@ export const info = {
             label: 'nadar',
             emoji: '🏊‍♀️'
         },
-// Same as above, change the emojis to match / relate to your hobbies or interests.
-// You can also remove the emojis if you'd like, I just think they look cute :P
     ],
-    portfolio: [ // This is where your portfolio projects will be detailed
-
+    portfolio: [
         {
-            title: "1. PokeApi V1",
-            live: "https://pokeapiboris.vercel.app/version_uno",
-            source: "https://github.com/Boxvi/pokeapiboris",
-            type: "FRONTEND",
-        },
-        {
-            title: "2. PokeApi V2",
-            live: "https://pokeapiboris.vercel.app/version_dos/todos",
-            source: "https://github.com/Boxvi/pokeapiboris",
-            type: "FRONTEND",
-        },
-        {
-            title: "3. Flores Amarillas",
-            live: "https://flores-amarillas-cyan.vercel.app/",
-            source: "https://github.com/Boxvi/flores-amarillas",
-            type: "FRONTEND",
-        },
-        {
-            title: "4. Bitcoin Ecuador",
-            live: "https://bitcoin-ecuador.vercel.app/dashboard/home",
-            source: "https://github.com/Boxvi/pokeapiboris",
-            type: "FRONTEND",
-        },{
-            title: "5. Gift App",
-            live: "https://gif-boxvi.vercel.app/",
-            source: "https://github.com/Boxvi/gif-boxvi",
-            type: "FRONTEND",
-        },
-        {
-            title: "6. PokeApi V2",
-            live: "https://50-projects-react.vercel.app/",
-            source: "https://github.com/Boxvi/50-projects-react",
-            type: "FRONTEND",
-        },
-        {
-            title: "7. API PRODUCTO",
+            title: "API PRODUCTO JAVA",
+            image: uno,
             live: "https://api-producto-mongo.onrender.com/swagger-ui/index.html",
             source: "https://github.com/Boxvi/api_producto_mongo",
             type: "BACKEND",
 
         },
         {
-            title: "8. FRONT PRODUCTO",
+            title: "FRONT PRODUCTO REACTJS",
+            image: dos,
             live: "https://front-producto-mongo.vercel.app/",
             source: "https://github.com/Boxvi/front-producto-mongo",
             type: "FRONTEND",
-
         },
         {
-            title: "10. Disenos",
-            live: "https://boxvi.github.io/disenos.github.io/",
-            source: "https://github.com/Boxvi/disenos.github.io",
+            title: "API PRODUCTO NESTJS",
+            image: tres,
+            live: "https://api-producto-nestjs.onrender.com/docs/v1",
+            source: "https://github.com/Boxvi/api_producto_nestjs",
+            type: "BACKEND",
+        },
+        {
+            title: "FRONT TASK REACTJS",
+            image: cuatro,
+            live: "https://redux-react-crud-boxvi.vercel.app/",
+            source: "https://github.com/Boxvi/redux-react-crud-boxvi",
             type: "FRONTEND",
         },
         {
-            title: "11. Boxvi",
-            live: "https://boxvi.github.io/BOXVI_SOFT/",
-            source: "https://github.com/Boxvi/BOXVI_SOFT",
+            title: "PokeApi V1 ReactJS",
+            image: cinco,
+            live: "https://pokeapiboris.vercel.app/version_uno",
+            source: "https://github.com/Boxvi/pokeapiboris",
             type: "FRONTEND",
         },
         {
-            title: "12. YuGiOhWeb",
+            title: "PokeApi V2 ReactJS",
+            image: seis,
+            live: "https://pokeapiboris.vercel.app/version_dos/todos",
+            source: "https://github.com/Boxvi/pokeapiboris",
+            type: "FRONTEND",
+        },
+        {
+            title: "YuGiOhWeb Angular",
+            image: siete,
             live: "https://boxvi.github.io/yugihoweb/",
             source: "https://github.com/Boxvi/yugihoweb",
             type: "FRONTEND",
         },
         {
-            title: "13. Flores Amarillas Genu",
+            title: "Gift App ReactJS",
+            image: ocho,
+            live: "https://gif-boxvi.vercel.app/",
+            source: "https://github.com/Boxvi/gif-boxvi",
+            type: "FRONTEND",
+        },
+        {
+            title: "Flores Amarillas html-css-js",
+            image: nueve,
+            live: "https://flores-amarillas-cyan.vercel.app/",
+            source: "https://github.com/Boxvi/flores-amarillas",
+            type: "FRONTEND",
+        },
+        {
+            title: "Flores Amarillas Genu ReactJS",
+            image: diez,
             live: "https://flores-amarillas-genu.vercel.app/",
             source: "https://github.com/Boxvi/flores-amarillas-genu",
             type: "FRONTEND",
         },
-        //{
-            //title: "14. BoxviSoft NextJS",
-            //live: "https://boxvisoft.vercel.app/",
-            //source: "https://github.com/Boxvi/boxvisoft",
-            //type: "FRONTEND",
-        //},
         {
-            title: "14. Reloj html",
-            live: "https://boxvi.github.io/RELOJ/",
-            source: "https://github.com/Boxvi/RELOJ",
+            title: "Disenos html-css",
+            image: once,
+            live: "https://boxvi.github.io/disenos.github.io/",
+            source: "https://github.com/Boxvi/disenos.github.io",
             type: "FRONTEND",
         },
         {
-            title: "15. API PRODUCTO NESTJS",
-            live: "https://api-producto-nestjs.onrender.com/docs/v1",
-            source: "https://github.com/Boxvi/api_producto_nestjs",
-            type: "BACKEND",
+            title: "Boxvi html-css-js",
+            image: doce,
+            live: "https://boxvi.github.io/BOXVI_SOFT/",
+            source: "https://github.com/Boxvi/BOXVI_SOFT",
+            type: "FRONTEND",
         },
-
-        // {
-        //     title: "5. MVSC - Frontend",
-        //     live: "https://mvsc.vercel.app/", //this should be a link to the live version of your project, think github pages, netlify, heroku, etc. Or your own domain, if you have it.
-        //     source: "https://github.com/boxvi", // this should be a link to the **repository** of the project, where the code is hosted.
-        //     image: mock1
-        // },
-
+        {
+            title: "Portafolio uno ReactJS",
+            image: trece,
+            live: "https://50-projects-react.vercel.app/",
+            source: "https://github.com/Boxvi/50-projects-react",
+            type: "FRONTEND",
+        },
     ]
 }
