@@ -12,7 +12,7 @@
 ---
 <br>
 
-### <img src="https://data.textstudio.com/output/sample/animated/3/6/4/5/me-11-5463.gif" width="100px">
+### <img src="https://boxvi.github.io/recursos_readme_boxvi/2024-08-20-Sobre-Mi.gif" width="100px">
 
 - :moyai: ¡Me encanta el mundo del software y los videojuegos **Yoshi**! 
 - 💻 Actualmente estoy aprendiendo **NodeJS** , **Android Kotlin** & **Java**.
@@ -21,7 +21,7 @@
 ---
 <br>
 
-### <img src="https://cdn.pixabay.com/photo/2021/02/08/14/27/yoshi-5994957_960_720.png" width="65px"> <img src="https://data.textstudio.com/output/sample/animated/8/1/7/5/skills-3-5718.gif" width="255px"> <img src="https://cdn.pixabay.com/photo/2021/02/08/14/27/yoshi-5994957_960_720.png" width="65px">
+### <img src="https://cdn.pixabay.com/photo/2021/02/08/14/27/yoshi-5994957_960_720.png" width="65px"> <img src="https://boxvi.github.io/recursos_readme_boxvi/2024-08-20-Habilidades.gif" width="255px"> <img src="https://cdn.pixabay.com/photo/2021/02/08/14/27/yoshi-5994957_960_720.png" width="65px">
 <p align="center">
   <img src="https://img.shields.io/badge/-GitHub-6fd251?style=for-the-badge&logo=github&logoColor=6fd251&labelColor=ffffff">
   <img src="https://img.shields.io/badge/-Node.js-6fd251?style=for-the-badge&logo=Node.js&logoColor=6fd251&labelColor=ffffff">
@@ -40,7 +40,7 @@
 ---
 <br>
 
-### <img src="https://media.tenor.com/_WlgLUrCZZgAAAAi/yoshi-thank-you.gif" width="65px">  <img src="https://i.imgur.com/v8EDtAT.png" width="255"> <img src="https://media.tenor.com/_WlgLUrCZZgAAAAi/yoshi-thank-you.gif" width="65px">
+### <img src="https://media.tenor.com/_WlgLUrCZZgAAAAi/yoshi-thank-you.gif" width="65px">  <img src="https://boxvi.github.io/recursos_readme_boxvi/2024-08-20-Un-cafecito-conmigo-.gif" width="255"> <img src="https://media.tenor.com/_WlgLUrCZZgAAAAi/yoshi-thank-you.gif" width="65px">
 <br>
 
 <a href="https://kick.com/boxvi">
