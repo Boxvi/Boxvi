@@ -1,29 +1,59 @@
-><!--Title @Boxvi-->
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b3ff&size=35&center=true&vCenter=true&width=1000&lines=HELLO👋;I'm+Boris+Quizhpe;I'm+from+Ecuador;I'm+22+years+old;Welcome!)
-<h3 align="center">I am a Full Stack developer with a focus on BackEnd. I love working on the server and logistics side of a project, solving complex problems and optimizing systems. Although I have skills in FrontEnd development, my passion and experience lie in the BackEnd.</h3>
-
-
-- 🌱 I’m currently learning **oracle y react.js**
-
-- 👨‍💻 All of my projects are available at [profile](https://boxvi.vercel.app/)
-
-- 📫 How to reach me **boxaquro@gmail.com**
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Boxvi&theme=dark&hide_border=true&border_radius=4&locale=es)](https://git.io/streak-stats)
-
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Boxvi&bg_color=000000&color=ffffff&line=ffffff&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<!--Skill And More Information--> 
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=Boxvi&show_icons=true&count_private=true&hide_border=true&title_color=00b3ff&icon_color=00b4ff&text_color=c9d1d9&bg_color=0d1117" alt="Bastian Dev github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Boxvi&layout=compact&hide_border=true&title_color=00b3ff&text_color=00b4ff&bg_color=0d1117" />
+<div align="center">
+  <img src="https://media.tenor.com/GS0GVfU-Nt0AAAAi/yoshi-yoshi-heart.gif" alt="Yoshi" width="200">
+  
+  ### <img src="https://static.wikia.nocookie.net/universe-of-smash-bros-lawl/images/5/5e/Mario_Kart_Mario.gif/revision/latest?cb=20150219063715" width="25px"> Bienvenido a mi perfil de Github! <img src="https://static.wikia.nocookie.net/mario/images/a/ae/Koopa_Kart.gif/revision/latest?cb=20171011172034&path-prefix=es" width="25px">
+  
+  *Hola! Yo soy **[Boxvi](https://github.com/Boxvi)** y me gusta la progrmacion.*
+  
+  ![GitHub followers](https://img.shields.io/github/followers/Boxvi?style=social)
+  ![GitHub stars](https://img.shields.io/github/stars/Boxvi?style=social)
 </div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/boris-quizhpe-a8636825b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="boris-quizhpe-a8636825b" height="30" width="40" /></a>
+---
+<br>
+
+### <img src="https://data.textstudio.com/output/sample/animated/3/6/4/5/me-11-5463.gif" width="100px">
+
+- :moyai: ¡Me encanta el mundo del software y los videojuegos **Yoshi**! 
+- 💻 Actualmente estoy aprendiendo **NodeJS** , **Android Kotlin** & **Java**.
+- ✨ El idioma que domino es: **Inglés**
+
+---
+<br>
+
+### <img src="https://cdn.pixabay.com/photo/2021/02/08/14/27/yoshi-5994957_960_720.png" width="65px"> <img src="https://data.textstudio.com/output/sample/animated/8/1/7/5/skills-3-5718.gif" width="255px"> <img src="https://cdn.pixabay.com/photo/2021/02/08/14/27/yoshi-5994957_960_720.png" width="65px">
+<p align="center">
+  <img src="https://img.shields.io/badge/-GitHub-6fd251?style=for-the-badge&logo=github&logoColor=6fd251&labelColor=ffffff">
+  <img src="https://img.shields.io/badge/-Node.js-6fd251?style=for-the-badge&logo=Node.js&logoColor=6fd251&labelColor=ffffff">
+  <img src="https://img.shields.io/badge/-HTML5-6fd251?style=for-the-badge&logo=html5&logoColor=6fd251&labelColor=ffffff">
+  <img src="https://img.shields.io/badge/-CSS3-6fd251?style=for-the-badge&logo=css3&logoColor=6fd251&labelColor=ffffff">
+  <img src="https://img.shields.io/badge/-Java-6fd251?style=for-the-badge&logo=openjdk&logoColor=6fd251&labelColor=ffffff">
+  <img src="https://img.shields.io/badge/-php-6fd251?style=for-the-badge&logo=php&logoColor=6fd251&labelColor=ffffff">
+  <img src="https://img.shields.io/badge/-python-6fd251?style=for-the-badge&logo=python&logoColor=6fd251&labelColor=ffffff">
+  <img src="https://img.shields.io/badge/-Typescript-6fd251?style=for-the-badge&logo=Typescript&logoColor=6fd251&labelColor=ffffff">
+  <img src="https://img.shields.io/badge/-JavaScript-6fd251?style=for-the-badge&logo=javascript&logoColor=6fd251&labelColor=ffffff">
+  <img src="https://img.shields.io/badge/-mysql-6fd251?style=for-the-badge&logo=mysql&logoColor=6fd251&labelColor=ffffff">
+  <img src="https://img.shields.io/badge/-mongodb-6fd251?style=for-the-badge&logo=mongodb&logoColor=6fd251&labelColor=ffffff">
+  <img src="https://img.shields.io/badge/-oracle-6fd251?style=for-the-badge&logo=oracle&logoColor=6fd251&labelColor=ffffff">
 </p>
 
+---
+<br>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+### <img src="https://media.tenor.com/_WlgLUrCZZgAAAAi/yoshi-thank-you.gif" width="65px">  <img src="https://i.imgur.com/v8EDtAT.png" width="255"> <img src="https://media.tenor.com/_WlgLUrCZZgAAAAi/yoshi-thank-you.gif" width="65px">
+<br>
+
+<a href="https://kick.com/boxvi">
+ <img align="left" alt="kick" width="95" hight="95" src="https://play-lh.googleusercontent.com/66czInHo_spTFWwLVYntxW8Fa_FHCDRPnd3y0HT14_xz6xb_lqSv005ARvdkJJE2TA=s256-rw" />
+</a>
+<a href="https://boxvi.vercel.app/">
+ <img align="left" alt="page" width="95" hight="95" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2yGUI0aibnBOhRco3RTe7E54EupmjeBtRkg&s" />
+</a>
+<a href="www.linkedin.com/in/boris-quizhpe">
+ <img align="left" alt="linkedin" width="95" hight="95" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/LinkedIn_PNG16.png/640px-LinkedIn_PNG16.png" />
+</a>
+
+<div align="center">
+  <img src="https://media.tenor.com/oSua9ZxbQJ4AAAAi/yoshi.gif" alt="Yoshi" width="110">
+  <p>Gracias por visitar mi Perfil!</p>
+</div>
