@@ -35,7 +35,11 @@ export const info = {
         {
             emoji: "📧",
             text: "boxaquro@gmail.com"
-        }
+        },
+        {
+            emoji: "😺",
+            text: "test Xavier uwu 🗿 "
+        },
     ],
     socials: [
         {
