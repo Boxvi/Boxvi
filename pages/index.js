@@ -1,19 +1,12 @@
-import {FiMoon, FiSun} from "react-icons/fi";
-import {motion} from 'framer-motion';
-import Link from "next/link";
-import logoLight from '@public/images/logo-light.svg';
-import logoDark from '@public/images/logo-dark.svg';
-import Image from 'next/image';
-import {useTheme} from "next-themes";
-import {useEffect, useState} from "react"
-import PagesMetaHead from "@components/PagesMetaHead";
-import AppBanner from "@components/shared/AppBanner";
-import ProjectsGrid from "@components/projects/ProjectsGrid";
-import Button from "@components/reusable/Button";
-
-
 export default function Home() {
     return (
+        <div>
+            hola
+        </div>
+    )
+}
+/*
+return (
         <div className="container mx-auto">
             <PagesMetaHead title="Boris Quizhpe Home"/>
 
@@ -31,4 +24,4 @@ export default function Home() {
             </div>
         </div>
     );
-}
+    */

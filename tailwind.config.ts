@@ -1,37 +1,32 @@
-import colors from "tailwindcss/colors";
-
+/** @type {import('tailwindcss').Config} */
 module.exports = {
   content: [
-    './pages/**/*.{js,ts,jsx,tsx}',
-    './components/**/*.{js,ts,jsx,tsx}',
+    "./pages/**/*.{js,ts,jsx,tsx}",
+    "./components/**/*.{js,ts,jsx,tsx}",
   ],
-  darkMode: 'class',
   theme: {
     extend: {
       colors: {
-        // Light colors
-        'primary-light': '#F7F8FC',
-        'secondary-light': '#FFFFFF',
-        'ternary-light': '#f6f7f8',
-
-        // Dark colors
-        'primary-dark': '#0D2438',
-        'secondary-dark': '#102D44',
-        'ternary-dark': '#1E3851',
-
-        // Extended v3 color
-        gray: colors.neutral,
+        Green: "#1fdf64",
+        Black: "#000",
+        DeepNightBlack: "#121212",
+        MidNightBlack: "#181818",
+        EveningBlack: "#1a1a1a",
+        DarkGray: "#282828",
+        SlateGray: "#404040",
+        LightGray: "#959595",
+        SilverGray: "#B3B3B3",
+        Snow: "#ffffff",
       },
-      container: {
-        padding: {
-          DEFAULT: '1rem',
-          sm: '2rem',
-          lg: '5rem',
-          xl: '6rem',
-          '2xl': '8rem',
-        },
-      },
+      fontFamily: {
+        'cascadia-normal': ['cascadia-normal'],
+        'circular': ['circular-normal', 'sans-serif'],
+        'circular-light': ['circular-light', 'sans-serif'],
+        'circular-normal': ['circular-normal', 'sans-serif'],
+        'circular-medium': ['circular-medium', 'sans-serif'],
+        'circular-bold': ['circular-bold', 'sans-serif'],
+
+      }
     },
   },
-  plugins: [require('@tailwindcss/forms')],
-};
+}
