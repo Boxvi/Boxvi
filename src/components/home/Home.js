@@ -4,7 +4,7 @@ import {info} from "../../info/Info";
 import EmojiBullet from "./EmojiBullet";
 import SocialIcon from "./SocialIcon";
 import classNames from 'classnames';
-import me from '../../img/self.jpeg';
+import me from '../../img/self.png';
 
 export default function Home() {
     return (
