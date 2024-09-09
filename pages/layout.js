@@ -1,8 +1,8 @@
 import { FaBars, FaMousePointer } from 'react-icons/fa';
 import { SlOptionsVertical } from 'react-icons/sl';
 import { useState } from "react";
-import Intro from '@components/Common/Intro';
-import Nav from '@components/Common/Nav/Nav';
+import Intro from '../components/Common/Intro';
+import Nav from '../components/Common/Nav/Nav';
 
 export default function Layout({ children }) {
     const [isOpen, setIsOpen] = useState(false);

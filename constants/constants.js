@@ -1,11 +1,12 @@
 export const NAME = 'Boris Quizhpe Romero';
 
-export const DESIGNATION = `desarrolladore`;
+export const DESIGNATION = `Front-end junior nextjs`;
 
 export const DETAILS = {
-  Residence: 'Ecuador',
-  City: 'Cuenca',
-  Age: '23',
+  Residencia: 'Ecuador',
+  Ciudad: 'Cuenca',
+  Edad: '23',
+  Genero: 'Masculino',
 };
 
 export const SKILLS = [
