@@ -1,4 +1,4 @@
-import self from "../img/self.jpeg"
+import self from "../img/self.png"
 import uno from "../img/1.webp";
 import dos from "../img/2.webp";
 import tres from "../img/3.webp"
