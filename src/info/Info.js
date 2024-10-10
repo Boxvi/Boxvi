@@ -38,7 +38,7 @@ export const info = {
         },
         {
             emoji: "😺",
-            text: "test Xavier uwu 🗿 "
+            text: "test Xavier 🗿 "
         },
     ],
     socials: [
@@ -48,7 +48,7 @@ export const info = {
             label: 'github'
         },
         {
-            link: "https://www.linkedin.com",
+            link: "https://ec.linkedin.com/in/boris-quizhpe",
             icon: "fa fa-linkedin",
             label: 'linkedin'
         },
