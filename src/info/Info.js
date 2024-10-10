@@ -191,5 +191,14 @@ export const info = {
             source: "https://github.com/Boxvi/50-projects-react",
             type: "FRONTEND",
         },
+        {
+        title :"hola",
+        image :trece,
+        live:"https://boxvi.github.io/feliz_cumpleanos/",
+            source: "https://github.com/Boxvi/50-projects-react",
+            type: "FRONTEND",
+        
+            
+        },
     ]
 }
