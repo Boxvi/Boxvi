@@ -33,12 +33,16 @@ export const info = {
             text: "Desarrollador de Software"
         },
         {
-            emoji: "📧",
-            text: "boxaquro@gmail.com"
+            emoji: "💻",
+            text: "Soporte TI"
         },
         {
-            emoji: "😺",
-            text: "test Xavier 🗿 "
+            emoji: "🛜",
+            text: "Redes"
+        },
+        {
+            emoji: "📧",
+            text: "boxaquro@gmail.com"
         },
     ],
     socials: [
@@ -53,24 +57,24 @@ export const info = {
             label: 'linkedin'
         },
         {
-            link: "https://twitter.com/_Boxvi_",
-            icon: "fa fa-twitter",
-            label: 'twitter'
-        },
-        {
             link: "https://wa.me/593996474990?text=Hola%20Boris,%20%C2%BFc%C3%B3mo%20te%20encuentras%20el%20d%C3%ADa%20de%20hoy?",
             icon: "fa fa-whatsapp",
             label: 'whatsapp'
+        },
+        {
+            link: "https://www.facebook.com/profile.php?id=61566948676070",
+            icon: "fa fa-facebook",
+            label: 'facebook'
         }
     ],
     bio: "¡Hola! Soy Boris, desarrollador de software independiente con formación en el Tecnológico del Azuay. Disfruto de la resolución creativa de problemas y tengo un enfoque proactivo hacia la tecnología. Creo que la inteligencia artificial transformará nuestro futuro. ¡Estoy listo para sumar valor a tu equipo! ¡Hablemos y descubre cómo puedo contribuir a tu proyecto!",
     skills:
-        {
-            proficientWith: ['javascript', 'react', 'angular', 'java', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'
-                , 'mysql', 'mongodb', 'postgresql', 'redes', 'cisco', 'linux', 'windows', 'docker', 'kubernetes', 'aws'
-                , 'vmware'],
-            exposedTo: ['nodejs', 'python', 'adobe illustrator',]
-        }
+    {
+        proficientWith: ['javascript', 'react', 'angular', 'java', 'git', 'github', 'bootstrap', 'html5', 'css3', 'figma'
+            , 'mysql', 'mongodb', 'postgresql', 'redes', 'cisco', 'linux', 'windows', 'docker', 'kubernetes', 'aws'
+            , 'vmware'],
+        exposedTo: ['nodejs', 'python', 'adobe illustrator',]
+    }
     ,
     hobbies: [
         {
@@ -96,6 +100,10 @@ export const info = {
         {
             label: 'nadar',
             emoji: '🏊‍♀️'
+        },
+        {
+            label: 'profesor',
+            emoji: '👨‍🏫'
         },
     ],
     portfolio: [
@@ -180,25 +188,16 @@ export const info = {
         {
             title: "Boxvi html-css-js",
             image: doce,
-            live: "https://boxvi.github.io/BOXVI_SOFT/",
-            source: "https://github.com/Boxvi/BOXVI_SOFT",
+            live: "https://boxvi.github.io/arana_electrica/",
+            source: "https://github.com/Boxvi/arana_electrica",
             type: "FRONTEND",
         },
         {
-            title: "Portafolio uno ReactJS",
+            title: "Portafolio version #1 ReactJS",
             image: trece,
             live: "https://50-projects-react.vercel.app/",
             source: "https://github.com/Boxvi/50-projects-react",
             type: "FRONTEND",
-        },
-        {
-        title :"hola",
-        image :trece,
-        live:"https://boxvi.github.io/feliz_cumpleanos/",
-            source: "https://github.com/Boxvi/50-projects-react",
-            type: "FRONTEND",
-        
-            
         },
     ]
 }

@@ -49,7 +49,7 @@ export default function BaseLayout() {
                     <Box component={'footer'} display={'flex'} flexDirection={'column'} alignItems={'center'}
                          py={'1.5rem'} sx={{opacity: 0.7}} width={'100%'}>
                         <p>Boris Quizhpe</p>
-                        <p>{anioActual}</p>
+                        <p>{anioActual}, 3.0.0</p>
                     </Box>
                 </Grid>
             </Grid>
