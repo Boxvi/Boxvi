@@ -3,7 +3,7 @@
   
   ### <img src="https://static.wikia.nocookie.net/universe-of-smash-bros-lawl/images/5/5e/Mario_Kart_Mario.gif/revision/latest?cb=20150219063715" width="25px"> Bienvenido a mi perfil de Github! <img src="https://static.wikia.nocookie.net/mario/images/a/ae/Koopa_Kart.gif/revision/latest?cb=20171011172034&path-prefix=es" width="25px">
   
-  *Hola! Yo soy **[Boxvi](https://github.com/Boxvi)** y me gusta la progrmacion.*
+  *Hola! ni nombre es **[Boris](https://github.com/Boxvi)** y me gusta todo lo relacionado al mundo de software y TI*
   
   ![GitHub followers](https://img.shields.io/github/followers/Boxvi?style=social)
   ![GitHub stars](https://img.shields.io/github/stars/Boxvi?style=social)
@@ -14,7 +14,7 @@
 
 ### <img src="https://boxvi.github.io/recursos_readme_boxvi/2024-08-20-Sobre-Mi.gif" width="100px">
 
-- :moyai: ¡Me encanta el mundo del software y los videojuegos **Yoshi**! 
+- :moyai: ¡Me gusta el mundo del software, TI y los videojuegos **Yoshi**! 
 - 💻 Actualmente estoy aprendiendo **NodeJS** , **Android Kotlin** & **Java**.
 - ✨ El idioma que domino es: **Inglés**
 
