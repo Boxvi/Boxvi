@@ -1,8 +1,8 @@
-import {useEffect, useState} from "react";
-import {Box, Grid} from "@mui/material";
+import { useEffect, useState } from "react";
+import { Box, Grid } from "@mui/material";
 import Navbar from "./Navbar";
 import Style from './BaseLayout.module.scss'
-import {Route, Routes} from "react-router-dom";
+import { Route, Routes, Navigate } from "react-router-dom";
 import Home from "./home/Home";
 import Portafolio from "./portafolio/Portafolio";
 import About from "./about/About";
@@ -34,20 +34,23 @@ export default function BaseLayout() {
     return (
         <Box className={darkMode ? Style.dark : Style.light}>
             <Grid container display={'flex'} flexDirection={'column'} minHeight={'100vh'}
-                  justifyContent={'space-between'}>
+                justifyContent={'space-between'}>
                 <Grid item>
-                    <Navbar darkMode={darkMode} handleClick={handleToggleDarkMode}/>
+                    <Navbar darkMode={darkMode} handleClick={handleToggleDarkMode} />
                 </Grid>
                 <Grid item flexGrow={1}>
                     <Routes>
-                        <Route exact path={'/'} element={<Home/>}/>
-                        <Route exact path={'/about'} element={<About/>}/>
-                        <Route exact path={'/portafolio'} element={<Portafolio/>}/>
+                        <Route path="/" element={<Navigate to="/boris-quizhpe/" replace />} />
+
+
+                        <Route exact path={'/boris-quizhpe/'} element={<Home />} />
+                        <Route exact path={'/boris-quizhpe/about'} element={<About />} />
+                        <Route exact path={'/boris-quizhpe/portafolio'} element={<Portafolio />} />
                     </Routes>
                 </Grid>
                 <Grid item>
                     <Box component={'footer'} display={'flex'} flexDirection={'column'} alignItems={'center'}
-                         py={'1.5rem'} sx={{opacity: 0.7}} width={'100%'}>
+                        py={'1.5rem'} sx={{ opacity: 0.7 }} width={'100%'}>
                         <p>Boris Quizhpe</p>
                         <p>{anioActual}, 3.0.0</p>
                     </Box>
