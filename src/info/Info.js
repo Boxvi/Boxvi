@@ -42,7 +42,7 @@ export const info = {
         },
         {
             emoji: "📧",
-            text: "boxaquro@gmail.com"
+            text: "hola@boxvisoft.com"
         },
     ],
     socials: [
@@ -198,6 +198,13 @@ export const info = {
             image: trece,
             live: "https://50-projects-react.vercel.app/",
             source: "https://github.com/Boxvi/50-projects-react",
+            type: "FRONTEND",
+        },
+        {
+            title: "Portafolio version #2 ReactJS",
+            image: trece,
+            live: "https://boxvi.vercel.app",
+            source: "https://github.com/Boxvi/boxvi",
             type: "FRONTEND",
         },
     ]
