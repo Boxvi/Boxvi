@@ -5,6 +5,7 @@ import EmojiBullet from "./EmojiBullet";
 import SocialIcon from "./SocialIcon";
 import classNames from 'classnames';
 import me from '../../img/self.png';
+import cv from "../../info/hoja_de_presentacion_boris_quizhpe_desarrollador_software.pdf"
 
 export default function Home() {
     return (
@@ -28,7 +29,7 @@ export default function Home() {
                     ))}
                 </Box>
                 <Box display={'flex'} gap={'1.5rem'} justifyContent={'center'} fontSize={{ xs: '2rem', md: '2.5rem' }}>
-                    <a href="/public/cv_boris_quizhpe.pdf" download="cv_boris_quizhpe.pdf" style={{ textDecoration: 'none' }}>
+                    <a href={cv} download="cv_boris_quizhpe_desarrollador.pdf" style={{ textDecoration: 'none' }}>
                         <button style={{
                             fontSize: '1rem',
                             padding: '0.5rem 1rem',
