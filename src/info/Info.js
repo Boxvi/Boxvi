@@ -78,34 +78,16 @@ export const info = {
     }
     ,
     hobbies: [
-        {
-            label: 'lectura',
-            emoji: '📖'
-        },
-        {
-            label: 'teatro',
-            emoji: '🎭'
-        },
-        {
-            label: 'peliculas',
-            emoji: '🎥'
-        },
-        {
-            label: 'cocinar',
-            emoji: '🌶'
-        },
-        {
-            label: 'dormir',
-            emoji: '💤'
-        },
-        {
-            label: 'nadar',
-            emoji: '🏊‍♀️'
-        },
-        {
-            label: 'profesor',
-            emoji: '👨‍🏫'
-        },
+        { label: 'lectura', emoji: '📖' },
+        { label: 'teatro', emoji: '🎭' },
+        { label: 'peliculas', emoji: '🎥' },
+        { label: 'cocinar', emoji: '🌶' },
+        { label: 'dormir', emoji: '💤' },
+        { label: 'nadar', emoji: '🏊‍♀️' },
+        { label: 'profesor', emoji: '👨‍🏫' },
+    ],
+    goals2025: [
+        { label: 'Compra de un dominio web', emoji: '💻' }
     ],
     portfolio: [
         {

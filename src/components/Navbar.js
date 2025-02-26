@@ -27,6 +27,11 @@ const links = [
         to: '/boris-quizhpe/portafolio',
         active: 'portfolio'
     },
+//    {
+//        name: 'Goals 2025',
+//        to: '/boris-quizhpe/goals2025',
+//        active: 'goals2025'
+//    },
     // {
     //     name: 'tienda',
     //     to: '/tienda',

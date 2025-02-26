@@ -6,6 +6,7 @@ import { Route, Routes, Navigate } from "react-router-dom";
 import Home from "./home/Home";
 import Portafolio from "./portafolio/Portafolio";
 import About from "./about/About";
+import Goals2025 from "./goals_2025/Goals2025";
 
 
 export default function BaseLayout() {
@@ -46,6 +47,7 @@ export default function BaseLayout() {
                         <Route exact path={'/boris-quizhpe/'} element={<Home />} />
                         <Route exact path={'/boris-quizhpe/about'} element={<About />} />
                         <Route exact path={'/boris-quizhpe/portafolio'} element={<Portafolio />} />
+                        <Route exact path={'/boris-quizhpe/goals2025'} element={<Goals2025 />} />
                     </Routes>
                 </Grid>
                 <Grid item>
