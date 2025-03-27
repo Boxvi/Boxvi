@@ -49,12 +49,6 @@
 <a href="https://kick.com/boxvi">
  <img align="left" alt="kick" width="95" hight="95" src="https://play-lh.googleusercontent.com/66czInHo_spTFWwLVYntxW8Fa_FHCDRPnd3y0HT14_xz6xb_lqSv005ARvdkJJE2TA=s256-rw" />
 </a>
-<a href="https://boxvi.vercel.app/">
- <img align="left" alt="page" width="95" hight="95" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2yGUI0aibnBOhRco3RTe7E54EupmjeBtRkg&s" />
-</a>
-<a href="www.linkedin.com/in/boris-quizhpe">
- <img align="left" alt="linkedin" width="95" hight="95" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/LinkedIn_PNG16.png/640px-LinkedIn_PNG16.png" />
-</a>
 
 <div align="center">
   <img src="https://media.tenor.com/oSua9ZxbQJ4AAAAi/yoshi.gif" alt="Yoshi" width="110">
